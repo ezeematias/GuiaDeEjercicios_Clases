@@ -1,0 +1,7 @@
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\bin\Debug\EjercicioGuia_Nº33.exe.config
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\bin\Debug\EjercicioGuia_Nº33.exe
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\bin\Debug\EjercicioGuia_Nº33.pdb
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\obj\Debug\EjercicioGuia_Nº33.csprojAssemblyReference.cache
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\obj\Debug\EjercicioGuia_Nº33.csproj.CoreCompileInputs.cache
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\obj\Debug\EjercicioGuia_Nº33.exe
+C:\Users\peque\Desktop\UTN\SEGUNDO CUATRIMESTRE\LABORATORIO Y PROGRAMACIÓN II\REPOSITORIOS\GuiaDeEjercicios_Clases\EjercicioGuia_Nº33\EjercicioGuia_Nº33\obj\Debug\EjercicioGuia_Nº33.pdb
