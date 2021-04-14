@@ -18,7 +18,7 @@ namespace CentralitaHerencia
             this.nroOrigen = nroOrigen;
         }
 
-        public string Mostrar()
+        public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Origen: {NroOrigen}, Destino: {NroDestino}, Duración {Duracion}");

@@ -29,7 +29,20 @@ namespace CentralitaHerencia
 
         private float CalcularCosto()
         {
-            return 0;
+            float output = 0;
+            switch (this.franjaHoraria)
+            {
+                case Franja.Franja_1:
+                    output = this.Duracion * 0.99F;
+                    break;
+                case Franja.Franja_2:
+                    output = this.Duracion * 1.25F;
+                    break;
+                case Franja.Franja_3:
+                    output = this.Duracion * 0.66F;
+                    break;
+            }
+            return output;
         }
 
         public enum Franja
@@ -39,21 +52,12 @@ namespace CentralitaHerencia
             Franja_3,
         }
 
-        public new string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            //sb.AppendLine($"{base.Mostrar()}");
-            // Abandono acá!!!!! /////////////////////////////////////////
-            
-            return "";
+            sb.AppendLine($"Costo:{this.CostoLlamada}, {this.franjaHoraria}");
+            return sb.ToString();
         }
-
-
-
-
-
-
-
 
     }
 }

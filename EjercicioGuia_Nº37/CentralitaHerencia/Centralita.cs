@@ -21,7 +21,56 @@ namespace CentralitaHerencia
 
         }
         
-        //private float CalcularGanancias()
+        public float GananciasPorLocal
+        {
+            get
+            {
+                return 0;
+            }
+        }
+
+        public float GananciasPorProvincial
+        {
+            get
+            {
+                return 0;
+            }
+        }
+
+        public float GananciasPorTotal
+        {
+            get
+            {
+                return 0;
+            }
+        }
+
+        public List<Llamada> Llamadas
+        {
+            get
+            {
+                return Llamadas;
+            }
+        }
+
+        private float CalcularGanancia(Llamada.TipoLlamada tipo)
+        {
+            float output = 0;
+            switch (tipo)
+            {
+                case Llamada.TipoLlamada.Local:
+                    
+                    break;
+                case Llamada.TipoLlamada.Provincial:
+
+                    break;
+                case Llamada.TipoLlamada.Todas:
+
+                    break;
+            }
+            return output;            
+        }
+
 
         public string Mostrar()
         {
@@ -31,9 +80,6 @@ namespace CentralitaHerencia
         public void OrdenarLlamadas()
         {
 
-        }
-
-
-        
+        }        
     }
 }

@@ -32,25 +32,12 @@ namespace CentralitaHerencia
             return base.Duracion * this.CostoLlamada;
         }
 
-        public new string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{base.Mostrar()} Costo: {this.CostoLlamada}");
+            sb.AppendLine($"Costo: {this.CostoLlamada}");
             return sb.ToString();
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
